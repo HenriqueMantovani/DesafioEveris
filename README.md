@@ -16,11 +16,11 @@ Foi usado o Firebase para autenticação do Login e armazenameto dos dados dos E
 
 Logins Disponíveis: 
 
-Admin(Que pode cadastrar novos eventos)
-email: henrique.mantovani@everis.com
+Admin(Que pode cadastrar novos eventos) =>
+email: henrique.mantovani@everis.com /
 senha: 12345678
 
 
-Usuário(Não pode cadastrar novos eventos)
-email: teste@teste.com
+Usuário(Não pode cadastrar novos eventos) =>
+email: teste@teste.com /
 senha: 123456
