@@ -11,6 +11,9 @@ Inscrição =>	Tela com detalhamento do evento e formulário para inscrição,
 
 Cadastro de Evento =>	Tela disponível apenas para usuários com perfil admin
 
+O Botao "Novo Evento" só fica habilitado para perfis Admins
+
+E os botões "Inscrever-me" e "Cadastrar" só ficam habilitados quando todos os campos estão preenchidos
 
 Foi usado o Firebase para autenticação do Login e armazenameto dos dados dos Eventos.
 
