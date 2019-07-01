@@ -12,7 +12,7 @@ Inscrição =>	Tela com detalhamento do evento e formulário para inscrição,
 Cadastro de Evento =>	Tela disponível apenas para usuários com perfil admin
 
 
-Foi usado o Fireabse para autenticação do Login e armazenameto dos dados dos Eventos.
+Foi usado o Firebase para autenticação do Login e armazenameto dos dados dos Eventos.
 
 Logins Disponíveis: 
 
