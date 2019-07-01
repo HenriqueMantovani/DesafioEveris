@@ -5,9 +5,7 @@ O Aplicativo possui 4 telas:
 
 Login => Autenticar o usuário everis,
 Lista de Eventos => Lista de todos os eventos,
-
 Inscrição =>	Tela com detalhamento do evento e formulário para inscrição,
-
 Cadastro de Evento =>	Tela disponível apenas para usuários com perfil admin
 
 Foi usado o Fireabse para autenticação do Login e armazenameto dos dados dos Eventos.
