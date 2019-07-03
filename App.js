@@ -1,13 +1,3 @@
-import React, { Component } from 'react';
-import{
-  View,
-  Text,
-  Button,
-  StyleSheet,
-  TextInput,
-  TouchableOpacity, 
-} from 'react-native';
-
 import { StackNavigator } from 'react-navigation';
 import Login from './src/Login';
 import ListaEventos from './src/ListaEventos';
